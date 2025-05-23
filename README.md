@@ -41,7 +41,9 @@ Enter your choice:
 2. Deposit money 
 3. Withdraw money 
 4. Exit 
+
 2
+
 Enter amount to deposit: $ 
 100
 Enter your choice: 
@@ -49,7 +51,9 @@ Enter your choice:
 2. Deposit money 
 3. Withdraw money 
 4. Exit 
+
 1
+
 Your balance is: $100.00
 Enter your choice: 
 4
