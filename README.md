@@ -55,8 +55,11 @@ Enter your choice:
 1
 
 Your balance is: $100.00
+
 Enter your choice: 
+
 4
+
 Thanks for vising 
 ********************************* 
 
