@@ -60,7 +60,7 @@ Enter your choice:
 
 4
 
-Thanks for vising 
+Thanks for visitng 
 ********************************* 
 
 
